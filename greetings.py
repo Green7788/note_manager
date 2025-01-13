@@ -10,3 +10,6 @@ print("Описание заметки:", content)
 print("Статус заметки:", status)
 print("Дата создания:", created_date)
 print("Дата истечения:", issue_date)
+
+print(created_date[0:5])
+print(issue_date[0:5])
