@@ -1,7 +1,7 @@
-username = "Yan"
-title = "Grade 1"
-content = "Stage 1"
-status = "at work"
+username  = "имя пользователя"
+title = "заголовок заметки"
+content = "описание заметки"
+status = "статус заметки"
 created_date = "10-01-2025"
 issue_date = "10-02-2025"
 print("Имя пользователя:", username)
